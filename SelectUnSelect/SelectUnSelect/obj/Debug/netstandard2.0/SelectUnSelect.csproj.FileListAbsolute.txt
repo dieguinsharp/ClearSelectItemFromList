@@ -1,0 +1,15 @@
+C:\Users\diego\OneDrive\Área de Trabalho\selectable\SelectUnSelect\SelectUnSelect\SelectUnSelect\bin\Debug\netstandard2.0\SelectUnSelect.deps.json
+C:\Users\diego\OneDrive\Área de Trabalho\selectable\SelectUnSelect\SelectUnSelect\SelectUnSelect\bin\Debug\netstandard2.0\SelectUnSelect.dll
+C:\Users\diego\OneDrive\Área de Trabalho\selectable\SelectUnSelect\SelectUnSelect\SelectUnSelect\bin\Debug\netstandard2.0\SelectUnSelect.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\selectable\SelectUnSelect\SelectUnSelect\SelectUnSelect\obj\Debug\netstandard2.0\SelectUnSelect.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Área de Trabalho\selectable\SelectUnSelect\SelectUnSelect\SelectUnSelect\obj\Debug\netstandard2.0\SelectUnSelect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Área de Trabalho\selectable\SelectUnSelect\SelectUnSelect\SelectUnSelect\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\diego\OneDrive\Área de Trabalho\selectable\SelectUnSelect\SelectUnSelect\SelectUnSelect\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\diego\OneDrive\Área de Trabalho\selectable\SelectUnSelect\SelectUnSelect\SelectUnSelect\obj\Debug\netstandard2.0\SelectUnSelect.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\selectable\SelectUnSelect\SelectUnSelect\SelectUnSelect\obj\Debug\netstandard2.0\SelectUnSelect.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Área de Trabalho\selectable\SelectUnSelect\SelectUnSelect\SelectUnSelect\obj\Debug\netstandard2.0\SelectUnSelect.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\selectable\SelectUnSelect\SelectUnSelect\SelectUnSelect\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\diego\OneDrive\Área de Trabalho\selectable\SelectUnSelect\SelectUnSelect\SelectUnSelect\obj\Debug\netstandard2.0\SelectUnSelect.dll
+C:\Users\diego\OneDrive\Área de Trabalho\selectable\SelectUnSelect\SelectUnSelect\SelectUnSelect\obj\Debug\netstandard2.0\refint\SelectUnSelect.dll
+C:\Users\diego\OneDrive\Área de Trabalho\selectable\SelectUnSelect\SelectUnSelect\SelectUnSelect\obj\Debug\netstandard2.0\SelectUnSelect.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\selectable\SelectUnSelect\SelectUnSelect\SelectUnSelect\obj\Debug\netstandard2.0\ref\SelectUnSelect.dll

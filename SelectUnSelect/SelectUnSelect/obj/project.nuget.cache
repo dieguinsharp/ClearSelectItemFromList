@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "on4U6ePiDn9qaO4jqBvptBfPUF3kCd4Lft73F3BWmA9d0eo7LqEB2dKvgKsC5Attjemje18B/cs5rE4rx2klbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\selectable\\SelectUnSelect\\SelectUnSelect\\SelectUnSelect\\SelectUnSelect.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diego\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
