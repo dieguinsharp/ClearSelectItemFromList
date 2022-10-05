@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Xamarin.Forms;
 
 namespace SelectUnSelect {
@@ -12,6 +7,18 @@ namespace SelectUnSelect {
             InitializeComponent();
 
             this.BindingContext = new MainPageViewModel();
+        }
+
+        private void TapGestureRecognizer_Tapped (object sender,EventArgs e) {
+            Console.WriteLine();
+        }
+
+        private void TapGestureRecognizer_Tapped_1 (object sender,EventArgs e) {
+
+        }
+
+        private void CollectionView_SelectionChanged (object sender,SelectionChangedEventArgs e) {
+            Console.WriteLine();
         }
     }
 }

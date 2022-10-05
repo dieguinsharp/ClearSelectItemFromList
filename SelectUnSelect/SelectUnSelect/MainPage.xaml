@@ -3,20 +3,26 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="SelectUnSelect.MainPage">
 
-    <StackLayout VerticalOptions="FillAndExpand">
+    <StackLayout VerticalOptions="FillAndExpand"
+                 x:Name="SLRoot">
         <CollectionView ItemsSource="{Binding Items}" 
-                    SelectedItem="{Binding SelectedItem}" 
-                    SelectionMode="Single">
+                    SelectedItem="{Binding SelectedItem}"
+                        SelectionMode="Single"
+                        SelectionChanged="CollectionView_SelectionChanged">
             <CollectionView.ItemTemplate>
                 <DataTemplate>
-                    <StackLayout Orientation="Horizontal" Spacing="20">
+                    <StackLayout Orientation="Horizontal" Spacing="20" BackgroundColor="{Binding Background}">
+                        <StackLayout.GestureRecognizers>
+                            <TapGestureRecognizer Command="{Binding  BindingContext.SelectOrUnselectItem, Source={x:Reference SLRoot}}" 
+                                                  CommandParameter="{Binding .}"
+                                                  NumberOfTapsRequired="1"/>
+                        </StackLayout.GestureRecognizers>
                         <Label Text="{Binding ID}"/>
                         <Label Text="{Binding Name}"/>
                     </StackLayout>
                 </DataTemplate>
             </CollectionView.ItemTemplate>
         </CollectionView>
-        <Button Text="Clear selected item" Command="{Binding ClearCommand}"/>
     </StackLayout>
     
 
